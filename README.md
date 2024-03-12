@@ -2,9 +2,9 @@
 
 ## What is this repo for?
 
-Hello, I am studying this paper this year with Anna Fergusson, check out her profile [here](https://profiles.auckland.ac.nz/a-fergusson).
+Hello, I am studying this paper this year with Anna Fergusson as my lecturer, check out her university profile [here](https://profiles.auckland.ac.nz/a-fergusson).
 
-## What do I want to learn in this course?
+## What do I hope to learn in this course?
 
 1. Data Technolgies
 2. More code *especially*
